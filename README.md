@@ -48,8 +48,3 @@ g++ -std=c++20 *.cpp -o app
 cd phase-3
 g++ -std=c++20 *.cpp -o app
 ./app
-
-
-cd phase-1
-g++ -std=c++20 main.cpp -o app
-./app
